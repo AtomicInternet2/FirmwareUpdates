@@ -1,0 +1,224 @@
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe --scan --onlySeagate
+==========================================================================================
+ SeaChest_Firmware - Seagate drive utilities - NVMe Enabled
+ Copyright (c) 2014-2023 Seagate Technology LLC and/or its Affiliates, All Rights Reserved
+ SeaChest_Firmware Version: 3.4.0-4_1_1 X86_64
+ Build Date: Mar 27 2023
+ Today: Wed Jul 31 15:23:40 2024        User: atomi (admin)
+==========================================================================================
+Vendor   Handle       Model Number            Serial Number          FwRev
+SATA     PD0          ST18000NM014J-2WS103    ZR57QHJ6               CM04
+SATA     PD1          ST16000NM001G-2KK103    ZL2HEJCX               SN04
+SATA     PD2          ST16000NM001G-2KK103    ZL2JVM4W               SN04
+SATA     PD3          ST18000NM000J-2TV103    ZR57WYEP               SN04
+SATA     PD4          ST18000NM002J-2TV133    ZR5A9K0A               PAL9
+SATA     PD5          ST18000NM003D-3DL103    ZVT17PZS               SN03
+SATA     PD6          ST18000NM003D-3DL103    ZVT0RVW6               SN03
+SATA     PD7          ST18000NM000J-2TV103    ZR5CRN5N               SN04
+SATA     PD8          ST18000NM000J-2TV103    ZR53LMMK               SN04
+SATA     PD9          ST8000DM004-2CX188      ZR10TDT4               0001
+SATA     PD10         ST18000NM000J-2TV103    ZR52VZ04               SN04
+SATA     PD11         OOS14000G               000CCDBH               OOS1
+SATA     PD12         ST16000NM001G-2KK103    ZL2410PZ               SN04
+SATA     PD13         ST16000NM001G-2KK103    ZL22VGKW               SN04
+SATA     PD14         ST18000NM000J-2TV103    ZR55MNP0               SN04
+SATA     PD15         ST18000NM000J-2TV103    ZR50TY1R               SN04
+SATA     PD16         ST18000NM003D-3DL103    ZVT0RSVR               SN03
+SATA     PD17         ST18000NM000J-2TV103    ZR50TXY7               SN04
+SATA     PD18         ST18000NM000J-2TV103    ZR55XH51               SN04
+SATA     PD19         ST16000NM001G-2KK103    ZL240CDF               SN04
+SATA     PD20         ST14000NM001G-2KJ103    ZLW24P0K               SN04
+SATA     PD21         ST14000NM001G-2KJ103    ZLW2C0JG               SN04
+SATA     PD22         ST10000NM0478-2H7100    ZHZ1QQ8R               SN04
+SATA     PD23         ST18000NM000J-2TV103    ZR5850WV               SN04
+SATA     PD24         ST18000NM000J-2TV103    ZR56B8QY               SN04
+SATA     PD25         ST16000NM001G-2KK103    ZL2DVWYE               SN04
+SATA     PD26         ST14000NM001G-2KJ103    ZL2AFTEB               SN04
+SATA     PD27         ST14000NM0018-2H4101    ZHZ33QYF               SN04
+SATA     PD28         ST14000NM0018-2H4101    ZHZ676EV               SN04
+NVMe     PD29         Seagate ZP1000GM30053   7VQ07B9Y               SU6SM005
+ASMT     PD30         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD31         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD32         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD33         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD34         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD35         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD36         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD37         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD38         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD39         USB 3.0 Destop H        00000000000000000000   0
+OOS18000 PD40         G                       D8000216DB21           0
+ASMT     PD41         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD42         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD43         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD44         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD45         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD46         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD47         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD48         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD49         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD50         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD51         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD52         USB 3.0 Destop H        00000000000000000000   0
+Sabrent  PD53         Dock Disk 1             10A000005525           0
+External PD55         USB3.0 DISK01           DD5641988389F          0103
+External PD57         USB3.0 DISK03           DD5641988389F          0103
+Sabrent  PD58         Dock Disk 1             10A000005525           0
+Sabrent  PD59         Dock Disk 5             50A000005525           0
+Sabrent  PD60         Dock Disk 4             40A000005525           0
+Sabrent  PD61         Dock Disk 3             30A000005525           0
+Sabrent  PD62         Dock Disk 2             20A000005525           0
+Seagate  PD63         Game Drive Hub          NC1200BP               0005
+Seagate  PD64         FireCuda HDD            NAD33653               0003
+Sabrent  PD65         Dock Disk 5             50A000005525           0
+Sabrent  PD66         Dock Disk 4             40A000005525           0
+Sabrent  PD67         Dock Disk 3             30A000005525           0
+Sabrent  PD68         Dock Disk 2             20A000005525           0
+ASMT     PD69         USB 3.0 Destop H        00000000000000000000   0
+ASMT     PD70         USB 3.0 Destop H        00000000000000000000   0
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD5 --downloadFW C:\Users\atomi\Downloads\ExosX20-LongsPeak-STD-SATA-512E-SN05\firmware\LongsPeakExosX20SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive5 - ST18000NM003D-3DL103 - ZVT17PZS - SN03 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.48
+Average time/segment  (us): 1.51
+Activate Time          (us): 125.60
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD6 --downloadFW C:\Users\atomi\Downloads\ExosX20-LongsPeak-STD-SATA-512E-SN05\firmware\LongsPeakExosX20SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive6 - ST18000NM003D-3DL103 - ZVT0RVW6 - SN03 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.83
+Average time/segment  (us): 3.30
+Activate Time          (us): 273.80
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD16 --downloadFW C:\Users\atomi\Downloads\ExosX20-LongsPeak-STD-SATA-512E-SN05\firmware\LongsPeakExosX20SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive16 - ST18000NM003D-3DL103 - ZVT0RSVR - SN03 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.74
+Average time/segment  (us): 1.40
+Activate Time          (us): 115.90
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD3 --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive3 - ST18000NM000J-2TV103 - ZR57WYEP - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.65
+Average time/segment  (us): 1.67
+Activate Time          (us): 136.90
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD7 --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive7 - ST18000NM000J-2TV103 - ZR5CRN5N - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.60
+Average time/segment  (us): 1.62
+Activate Time          (us): 132.90
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD8 --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive8 - ST18000NM000J-2TV103 - ZR53LMMK - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.34
+Average time/segment  (us): 1.54
+Activate Time          (us): 126.10
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD10 --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive10 - ST18000NM000J-2TV103 - ZR52VZ04 - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.75
+Average time/segment  (us): 1.46
+Activate Time          (us): 119.70
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe -d PD14 --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner
+
+\\.\PhysicalDrive14 - ST18000NM000J-2TV103 - ZR55MNP0 - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.31
+Average time/segment  (us): 1.49
+Activate Time          (us): 122.50
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner -d PD15
+
+\\.\PhysicalDrive15 - ST18000NM000J-2TV103 - ZR50TY1R - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.30
+Average time/segment  (us): 1.50
+Activate Time          (us): 123.00
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner -d PD17
+
+\\.\PhysicalDrive17 - ST18000NM000J-2TV103 - ZR50TXY7 - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.48
+Average time/segment  (us): 1.65
+Activate Time          (us): 135.20
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner -d PD18
+
+\\.\PhysicalDrive18 - ST18000NM000J-2TV103 - ZR55XH51 - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 29.65
+Average time/segment  (us): 326.51
+Activate Time          (ms): 26.77
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner -d PD23
+
+\\.\PhysicalDrive23 - ST18000NM000J-2TV103 - ZR5850WV - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.60
+Average time/segment  (us): 1.60
+Activate Time          (us): 131.10
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>SeaChest_Firmware_x64_windows.exe --downloadFW C:\Users\atomi\Downloads\ExosX18-EvansBP-STD-SATA-512E-SN05\firmware\EvansBPExosX18SATA-STD-512E-SN05.LOD --noBanner -d PD24
+
+\\.\PhysicalDrive24 - ST18000NM000J-2TV103 - ZR56B8QY - SN04 - ATA
+......
+Firmware Download successful
+Firmware Download time (s): 6.41
+Average time/segment  (us): 1.70
+Activate Time          (us): 139.10
+New firmware version is SN05
+
+
+C:\Users\atomi\Documents>
